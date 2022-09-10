@@ -67,7 +67,7 @@ Users should be able to:
 
 - The position of the background image isn't exactly the same as the original design. I am still trying to figure out how to place it a bit higher.
 
-- Still need to learn how to make the card more resposive. Once the width of the browser is super small, the card looks weird.
+- Still need to learn how to make the card more responsive. Once the width of the browser is super small, the card looks weird.
 
 ### Useful resources
 
