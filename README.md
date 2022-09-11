@@ -60,7 +60,7 @@ Users should be able to:
     padding-left: 40px;
 }
 ```
-- Thanks to @elaineleung 's comment on my solution to [QR-code-component](https://www.frontendmentor.io/solutions/qrcodecomponent--5wftdpyJm). I now know by using <code>max-width</code>, I can make the card responsive. I will keep practicing it. She also provide me some insights about how to make the html more structural.
+- Thanks to @elaineleung 's comment on my solution to [QR-code-component](https://www.frontendmentor.io/solutions/qrcodecomponent--5wftdpyJm). I now know by using <code>max-width</code>, <code>min-width</code>, and <code>width: min()</code> I can make the card responsive. I will keep practicing it. She also provide me some insights about how to make the html more structural.
 
 
 ### Continued development
